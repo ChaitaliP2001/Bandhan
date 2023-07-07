@@ -1,0 +1,13 @@
+<html>
+<title>CICD DEMO</title>
+<H1>This is for demo purpose 1</H1>
+<p>ESDS-BANDHAN COLABORATION</p>>
+<style>
+    body
+    {
+        background:#40E0D0;// This will give black background color to your entire body
+    }
+</style>
+
+<p>This is CICD </p>
+</html>
