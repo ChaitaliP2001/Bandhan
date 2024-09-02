@@ -21,7 +21,7 @@ spec:
   spec:
     containers:
     - name: django-project
-      image: hub.enlight.dev/360-containers/sample1:master
+      image: nginx
       imagePullPolicy: Always
       ports:
       - containerPort: 80
