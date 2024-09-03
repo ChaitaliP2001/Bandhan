@@ -1,0 +1,5 @@
+kubescape-relevancy
+kubescape-cloud-operator
+kubescape-labs
+kubescape-operator
+kubescape-prometheus-integrator

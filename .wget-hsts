@@ -1,0 +1,6 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+www.python.org	0	1	1721202634	63072000
+kubesphere.io	0	1	1724744275	15724800
+www.apache.org	0	1	1721201521	31536000

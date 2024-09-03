@@ -1,0 +1,3763 @@
+apiVersion: v1
+entries:
+  kubescape-cloud-operator:
+  - apiVersion: v2
+    appVersion: 1.14.5
+    created: "2023-08-15T12:06:08.133441333Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: bc714da5023e22bd39ef6adca547eb7f30911697a85e307abf656ef245dce456
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.14.5/kubescape-cloud-operator-1.14.5.tgz
+    version: 1.14.5
+  - apiVersion: v2
+    appVersion: 1.14.4
+    created: "2023-08-06T18:42:37.398636779Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 4f79cc9d1577a1a653b2c7b88c2785584e5a5fa28aa2584ed571341ff3eaeadc
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.14.4/kubescape-cloud-operator-1.14.4.tgz
+    version: 1.14.4
+  - apiVersion: v2
+    appVersion: 1.14.3
+    created: "2023-07-31T15:55:47.020953825Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 4f4b40a745a373f654bf8f3cbbf5afb8de9e00441595cf4429d834687f59d316
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.14.3/kubescape-cloud-operator-1.14.3.tgz
+    version: 1.14.3
+  - apiVersion: v2
+    appVersion: 1.14.2
+    created: "2023-07-26T06:18:17.186182746Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 9637307867ffc9f380931bbd54506a91afc4677b02be805085e0ddb5a75437ca
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.14.2/kubescape-cloud-operator-1.14.2.tgz
+    version: 1.14.2
+  - apiVersion: v2
+    appVersion: 1.14.1
+    created: "2023-07-13T14:43:37.886147368Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 0a5fc96e0318581dbb11bfd05af284c3810a6020407844db45f53cdbd760c6bb
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.14.1/kubescape-cloud-operator-1.14.1.tgz
+    version: 1.14.1
+  - apiVersion: v2
+    appVersion: 1.14.0
+    created: "2023-07-12T17:07:31.509360399Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 77febaeb7ea772f1b3ce16c985cfd6d7984db758cbb35b95617492e47eaff743
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.14.0/kubescape-cloud-operator-1.14.0.tgz
+    version: 1.14.0
+  - apiVersion: v2
+    appVersion: 1.13.7
+    created: "2023-07-06T13:25:45.281349708Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 68a1f2317ea07eeeeff0580c62e60d2753140cd10bd04457d778fcd37e206e2c
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.13.7/kubescape-cloud-operator-1.13.7.tgz
+    version: 1.13.7
+  - apiVersion: v2
+    appVersion: 1.13.5
+    created: "2023-07-02T06:47:45.300419219Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e37712b5de756e83f128bdb6da14e7c1c2ba289dceab42dc9e02386a6891c62c
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.13.5/kubescape-cloud-operator-1.13.5.tgz
+    version: 1.13.5
+  - apiVersion: v2
+    appVersion: 1.13.3
+    created: "2023-06-21T11:56:46.763437043Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: c92dc4b235623a077f4b162d17ec8f9884f6fba048fcebd6fe96455d7176aeaa
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.13.3/kubescape-cloud-operator-1.13.3.tgz
+    version: 1.13.3
+  - apiVersion: v2
+    appVersion: 1.13.2
+    created: "2023-06-20T11:37:59.233003234Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: c0910a9755d7ef44e9d388eb645d45b81f6be91fa72f7e5f59fb81640ae88cdd
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.13.2/kubescape-cloud-operator-1.13.2.tgz
+    version: 1.13.2
+  - apiVersion: v2
+    appVersion: 1.13.1
+    created: "2023-06-19T08:54:52.688096472Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 34f7fdaa68f059b0864b37de945b876b0757d55fe88e473d8b42cfb5b009a4f0
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.13.1/kubescape-cloud-operator-1.13.1.tgz
+    version: 1.13.1
+  - apiVersion: v2
+    appVersion: 1.12.5
+    created: "2023-06-15T18:45:35.907149865Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: cfd89f1078f192b645c6149b896d737c5cb9c964f7b44529bbdea71a8cf00f49
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.12.5/kubescape-cloud-operator-1.12.5.tgz
+    version: 1.12.5
+  - apiVersion: v2
+    appVersion: 1.12.1
+    created: "2023-06-08T08:10:47.888730392Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: cea0fbdafa52794630499258c11896860c77ffb4d5e90a02cb252821ff80506c
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.12.1/kubescape-cloud-operator-1.12.1.tgz
+    version: 1.12.1
+  - apiVersion: v2
+    appVersion: 1.12.0
+    created: "2023-06-08T07:28:10.927645794Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 205aceb25f151110542b5b8667a30933b8535b9f6ba64ed12cc0676c33f78272
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.12.0/kubescape-cloud-operator-1.12.0.tgz
+    version: 1.12.0
+  - apiVersion: v2
+    appVersion: 1.11.3
+    created: "2023-06-04T18:47:54.765620608Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 006b03281486d873907c78f719ac5d2ea413c929fc15e30ad582167a7b003ae0
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.11.3/kubescape-cloud-operator-1.11.3.tgz
+    version: 1.11.3
+  - apiVersion: v2
+    appVersion: 1.11.2
+    created: "2023-05-31T07:58:05.873105621Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 31f97f082415194ca00bcdecfedd69bbc90b8b9b04929fc3d6f041f8bee44f82
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.11.2/kubescape-cloud-operator-1.11.2.tgz
+    version: 1.11.2
+  - apiVersion: v2
+    appVersion: 1.11.1
+    created: "2023-05-29T09:00:06.923710688Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f7820e73d5c916e43e6f10649cd5b0c37fb2a7a27627bcb7892f9cf69b9b4a8d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.11.1/kubescape-cloud-operator-1.11.1.tgz
+    version: 1.11.1
+  - apiVersion: v2
+    appVersion: 1.11.0
+    created: "2023-05-28T14:24:09.547525373Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f4a14d952a3101bf2e62f2d2b3aae726cbdfdd573c907bfc43c39701a4b1a19e
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.11.0/kubescape-cloud-operator-1.11.0.tgz
+    version: 1.11.0
+  - apiVersion: v2
+    appVersion: 1.10.17
+    created: "2023-05-16T14:06:25.785430874Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 84856405615b31f85fe879519fdf22e65de75c6d43e52c51061f7c5af9550f1c
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.17/kubescape-cloud-operator-1.10.17.tgz
+    version: 1.10.17
+  - apiVersion: v2
+    appVersion: 1.10.15
+    created: "2023-05-03T11:56:12.358369617Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: a0a4bf9b2c02881a18d9023decf669eacf631a4fc4e1402a17f51373ee59784f
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.15/kubescape-cloud-operator-1.10.15.tgz
+    version: 1.10.15
+  - apiVersion: v2
+    appVersion: 1.10.14
+    created: "2023-05-03T08:39:37.138456804Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 33bde86a6d49678903e0f32a06b9e9a214bfbfb05b5c22551766c4a9fa914800
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.14/kubescape-cloud-operator-1.10.14.tgz
+    version: 1.10.14
+  - apiVersion: v2
+    appVersion: 1.10.13
+    created: "2023-05-02T06:04:07.956679949Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: af1d38bda6616133b1fb4ad8512511f15c1955215e8b148f75b19ccd24416dae
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.13/kubescape-cloud-operator-1.10.13.tgz
+    version: 1.10.13
+  - apiVersion: v2
+    appVersion: 1.10.12
+    created: "2023-04-27T08:48:34.536926301Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: eca8944be9dad736d8fc7c33690d7d79baeb1a9b628f6c14f8035a0be6eeea7b
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.12/kubescape-cloud-operator-1.10.12.tgz
+    version: 1.10.12
+  - apiVersion: v2
+    appVersion: 1.10.11
+    created: "2023-04-20T19:26:22.174682233Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 3938d2a9c262d00f5752684e74f3df1e3e91fae635a9dfeae7910e62a596df92
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.11/kubescape-cloud-operator-1.10.11.tgz
+    version: 1.10.11
+  - apiVersion: v2
+    appVersion: 1.10.10
+    created: "2023-04-17T08:16:52.829929582Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 5695fd8298726dea2f1bdf58026f2678a3686bcd480dea01b2a34bc969f30c38
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.10/kubescape-cloud-operator-1.10.10.tgz
+    version: 1.10.10
+  - apiVersion: v2
+    appVersion: 1.10.9
+    created: "2023-04-17T05:42:47.561380646Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 1d9dc0754102b7ca541d30e0cc9312e65a5ecac7832a86dfe835159ea500cbe6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.9/kubescape-cloud-operator-1.10.9.tgz
+    version: 1.10.9
+  - apiVersion: v2
+    appVersion: 1.10.8
+    created: "2023-03-15T13:16:04.637881886Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f3a2b3319cd92851d5b397b3c33cdae270d0f37df2cbb687077ce6cb03e21fd9
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.8/kubescape-cloud-operator-1.10.8.tgz
+    version: 1.10.8
+  - apiVersion: v2
+    appVersion: 1.10.6
+    created: "2023-03-14T09:54:27.905628593Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 66cfdb4b694b23e7c271dae50ccc3bb4d238c8df2764450cbcc2207a7e10cc39
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.6/kubescape-cloud-operator-1.10.6.tgz
+    version: 1.10.6
+  - apiVersion: v2
+    appVersion: 1.10.5
+    created: "2023-03-09T12:25:02.897131717Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: ad1025ca32d13f73ca9c06afa47d12ab409b0172377acb4f847d9edcf3692878
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.5/kubescape-cloud-operator-1.10.5.tgz
+    version: 1.10.5
+  - apiVersion: v2
+    appVersion: 1.10.4
+    created: "2023-03-08T10:18:14.951581879Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 10ca4e5a178fccad4eb53d182324ce4dad2f7ac7d2ecade8cab2afa896606f58
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.4/kubescape-cloud-operator-1.10.4.tgz
+    version: 1.10.4
+  - apiVersion: v2
+    appVersion: 1.10.3
+    created: "2023-03-07T10:30:23.69114034Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e42c265b9e6e5e5dd9389a18acdb0526ba8db0771e40c08e6565e484aea34b5d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.3/kubescape-cloud-operator-1.10.3.tgz
+    version: 1.10.3
+  - apiVersion: v2
+    appVersion: 1.10.0
+    created: "2023-03-01T09:48:49.340990706Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 28e0225b0921793c7c8489a2c524bb6fe9b3d22df34c8d406efd46d1c07df883
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.10.0/kubescape-cloud-operator-1.10.0.tgz
+    version: 1.10.0
+  - apiVersion: v2
+    appVersion: 1.9.23
+    created: "2023-02-28T13:12:03.151767556Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 93359281b9a04dd8b52255beb0e4cce1896ac4b520b942af1be0681a8b67b1f7
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.23/kubescape-cloud-operator-1.9.23.tgz
+    version: 1.9.23
+  - apiVersion: v2
+    appVersion: 1.9.21
+    created: "2023-02-28T10:15:47.279922691Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 095f8e252b2d2b08ba5c4358e67121bd2f153e962c743a4d0592ab74a86d84f6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.21/kubescape-cloud-operator-1.9.21.tgz
+    version: 1.9.21
+  - apiVersion: v2
+    appVersion: 1.9.20
+    created: "2023-02-28T09:00:49.477457744Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e1ed0cbe1b1e8c8e917cc943cc635509ae20f22d7e8ed6db9b8063f1d08815f8
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.20/kubescape-cloud-operator-1.9.20.tgz
+    version: 1.9.20
+  - apiVersion: v2
+    appVersion: 1.9.19
+    created: "2023-02-28T07:12:08.251364668Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 76e50e21c65c654fef2f3fc2d83f7a25301c0968c0c845e64e62bdecb1d8101f
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.19/kubescape-cloud-operator-1.9.19.tgz
+    version: 1.9.19
+  - apiVersion: v2
+    appVersion: 1.9.18
+    created: "2023-02-27T20:54:24.4768266Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 719f4c4f26106b4c98ba969c29e65352a9b7c605557e9f3de047c56c0c8079e5
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.18/kubescape-cloud-operator-1.9.18.tgz
+    version: 1.9.18
+  - apiVersion: v2
+    appVersion: 1.9.17
+    created: "2023-02-27T14:25:26.974182795Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 3711e0c4cd3a51dc3d24973d7f285f5998a963a28996dd25f8bf65936c1b4074
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.17/kubescape-cloud-operator-1.9.17.tgz
+    version: 1.9.17
+  - apiVersion: v2
+    appVersion: 1.9.16
+    created: "2023-02-27T10:57:52.803441511Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f00b3f412527887638c326935ae2cb5ce1a44a3d90aaded447fd0c6c38fc7000
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.16/kubescape-cloud-operator-1.9.16.tgz
+    version: 1.9.16
+  - apiVersion: v2
+    appVersion: 1.9.15
+    created: "2023-02-26T17:53:18.888967933Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 308406f588598be6966676f0fd3773df679d90a926a833707610795d6c977e4d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.15/kubescape-cloud-operator-1.9.15.tgz
+    version: 1.9.15
+  - apiVersion: v2
+    appVersion: 1.9.12
+    created: "2023-02-23T16:50:02.758111641Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 893c7cac8ee49b0e051cb5e204807075062ce5399bd1d84a83be031337e8fa14
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.12/kubescape-cloud-operator-1.9.12.tgz
+    version: 1.9.12
+  - apiVersion: v2
+    appVersion: 1.9.11
+    created: "2023-02-23T08:24:20.43824068Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e32f075848363f36f623f5dceb5c01fcd25adedc6e66505a616a62a074831cf2
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.11/kubescape-cloud-operator-1.9.11.tgz
+    version: 1.9.11
+  - apiVersion: v2
+    appVersion: 1.9.10
+    created: "2023-02-21T17:32:06.049050614Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 84adcdd7633e9e0f8770c1b172078b0fc16c34823d7fda22e1d98d7ccd65904d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.10/kubescape-cloud-operator-1.9.10.tgz
+    version: 1.9.10
+  - apiVersion: v2
+    appVersion: 1.9.9
+    created: "2023-02-21T06:54:54.366986844Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 1c95dfd7187ef969aeef98e6c673d0bc52f55a058bd12ddde70b86a72007a13e
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.9/kubescape-cloud-operator-1.9.9.tgz
+    version: 1.9.9
+  - apiVersion: v2
+    appVersion: 1.9.8
+    created: "2023-02-15T11:05:53.360600679Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 479d0d8b86578b1b55928ac7f24780bc2ca322b09e004391172334bd0cb8f557
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.8/kubescape-cloud-operator-1.9.8.tgz
+    version: 1.9.8
+  - apiVersion: v2
+    appVersion: 1.9.6
+    created: "2023-02-09T15:05:13.945379162Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 09b9ce4976ac77f1c14b55f3320873c5b195f337aee46971935fafbb45c5d95d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.6/kubescape-cloud-operator-1.9.6.tgz
+    version: 1.9.6
+  - apiVersion: v2
+    appVersion: 1.9.5
+    created: "2023-02-02T08:33:02.985437008Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: ca0bbf6e8af13699ef7ae10398dafa63346fd5bc29528becf3fb75c5dfeef9e6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.5/kubescape-cloud-operator-1.9.5.tgz
+    version: 1.9.5
+  - apiVersion: v2
+    appVersion: 1.9.4
+    created: "2023-02-02T07:52:45.510447708Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 79835a29909dc06dd5306ce0dbd2ab034b8223dabc8b59ad83d6403187f64e0e
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.4/kubescape-cloud-operator-1.9.4.tgz
+    version: 1.9.4
+  - apiVersion: v2
+    appVersion: 1.9.3
+    created: "2023-01-18T16:10:19.501642363Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 404aa729df890c9b0c763da19c5288b3be128792f1d28e83d5dadbf1ec315c4d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.3/kubescape-cloud-operator-1.9.3.tgz
+    version: 1.9.3
+  - apiVersion: v2
+    appVersion: 1.9.2
+    created: "2023-01-18T12:26:45.580711375Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e607987af2b6315e230816495ea363d180695506a4d40a77cc37dd974fee65e4
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.9.2/kubescape-cloud-operator-1.9.2.tgz
+    version: 1.9.2
+  - apiVersion: v2
+    appVersion: 1.8.12
+    created: "2023-01-08T14:21:53.82380911Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: a48898ca77b970aee45c525707bdaec8f61c5d13cca4a2e8006197ddf4219fdb
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.18/kubescape-cloud-operator-1.8.18.tgz
+    version: 1.8.18
+  - apiVersion: v2
+    appVersion: 1.8.10
+    created: "2022-12-22T12:52:35.958661836Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e7796ec869732d9a7c9db6ff669aa58dd9b6664460ed1bef377bb02bed9bc387
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.10/kubescape-cloud-operator-1.8.10.tgz
+    version: 1.8.10
+  - apiVersion: v2
+    appVersion: 1.8.9
+    created: "2022-12-22T12:38:23.942261503Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 49981e49c09754cd48ad9c9a1547aad173048d25086db3223490144b78921e89
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.9/kubescape-cloud-operator-1.8.9.tgz
+    version: 1.8.9
+  - apiVersion: v2
+    appVersion: v1.8.7
+    created: "2022-11-17T07:12:34.740757088Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: c4ede77af4c9db081399399388237bcbc1d8be8fec89319449b5c7e21370ceed
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.7/kubescape-cloud-operator-1.8.7.tgz
+    version: 1.8.7
+  - apiVersion: v2
+    appVersion: v1.8.6
+    created: "2022-11-06T17:38:48.458398187Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 1156d9632d0a472a56b9698417643ec9358c280eb045eb284b224f5d9cef8cfe
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.6/kubescape-cloud-operator-1.8.6.tgz
+    version: 1.8.6
+  - apiVersion: v2
+    appVersion: v1.8.5
+    created: "2022-10-13T11:09:39.822013499Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: bc4369ecc8abe75e9d71b6c62466bf2a9942bdfd22ef0e4fbb1f5f71ee6f7fcd
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.5/kubescape-cloud-operator-1.8.5.tgz
+    version: 1.8.5
+  - apiVersion: v2
+    appVersion: v1.8.3
+    created: "2022-09-29T14:42:59.702764156Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 159f1be1893bbaccf1ac7c500bba7ce3630bac194ee50b104239d095bbe19700
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.3/kubescape-cloud-operator-1.8.3.tgz
+    version: 1.8.3
+  - apiVersion: v2
+    appVersion: v1.8.1
+    created: "2022-09-15T11:14:40.994556253Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: fdbf86ade6bf320a1af4061099cc2c09a43a96ad046361491fcc40f18b71227e
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.1/kubescape-cloud-operator-1.8.1.tgz
+    version: 1.8.1
+  - apiVersion: v2
+    appVersion: v1.8.0
+    created: "2022-09-07T11:42:47.262616829Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: d99ef02ca0f7c9f9d799b5d2d77a3e5f84defece244127af44742679302228db
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-cloud-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-cloud-operator-1.8.0/kubescape-cloud-operator-1.8.0.tgz
+    version: 1.8.0
+  kubescape-labs:
+  - apiVersion: v2
+    appVersion: 2.0.0-beta0
+    created: "2023-04-20T20:09:25.739624679Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: d35d4f0957d7b084fd4822069b48e10d7222bf51db942af9d28a0b5e7c98e908
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-labs
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-labs-2.0.0-beta0/kubescape-labs-2.0.0-beta0.tgz
+    version: 2.0.0-beta0
+  kubescape-operator:
+  - apiVersion: v2
+    appVersion: 1.21.0
+    created: "2024-08-29T14:43:43.759509418Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 9528fd1a447a4738d309389100efe86aade4f6ff2db5d00795a73f221a3ce250
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.21.0/kubescape-operator-1.21.0.tgz
+    version: 1.21.0
+  - apiVersion: v2
+    appVersion: 1.20.6
+    created: "2024-08-23T09:38:52.226651058Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 92da8367c10953aabc72a5a10a284ee3ca570f716731aee14900149f4606d3df
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.20.6/kubescape-operator-1.20.6.tgz
+    version: 1.20.6
+  - apiVersion: v2
+    appVersion: 1.20.5
+    created: "2024-08-18T10:48:02.589710591Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f6f04ae2386b0c4e96df53c1f6478ba324f88bc18223aee5b1c7d1f4704a3301
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.20.5/kubescape-operator-1.20.5.tgz
+    version: 1.20.5
+  - apiVersion: v2
+    appVersion: 1.20.4
+    created: "2024-08-13T15:14:56.400746822Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: ecdc821c36305eecf0660832e38ef8bc530e0d2828b860127927ebea01072179
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.20.4/kubescape-operator-1.20.4.tgz
+    version: 1.20.4
+  - apiVersion: v2
+    appVersion: 1.20.3
+    created: "2024-08-08T12:28:54.046050878Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8bd6fc2579f3b19b10525ad6973b7f03eace667c818dddc452218993891a4116
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.20.3/kubescape-operator-1.20.3.tgz
+    version: 1.20.3
+  - apiVersion: v2
+    appVersion: 1.20.2
+    created: "2024-07-25T09:57:22.684379796Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: ea5d842e376503156a22398869ba3f59dd87a47ade0acb3853f3e6ced6904b39
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.20.2/kubescape-operator-1.20.2.tgz
+    version: 1.20.2
+  - apiVersion: v2
+    appVersion: 1.20.1
+    created: "2024-07-24T13:28:52.884657339Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 27d4f750a609ea4184cfcce8b5817dd9d86a785ef7906cf16a92595c064c8dd4
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.20.1/kubescape-operator-1.20.1.tgz
+    version: 1.20.1
+  - apiVersion: v2
+    appVersion: 1.19.5
+    created: "2024-07-18T14:11:27.740546375Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: d885f8a9d77bc72e60d3fe9ef97f13a59b5a1b58e22651fc10d58198b05669a9
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.19.5/kubescape-operator-1.19.5.tgz
+    version: 1.19.5
+  - apiVersion: v2
+    appVersion: 1.19.4
+    created: "2024-07-15T11:25:43.877382059Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 937346622550d808e7593ec2245234a0e8cee5e37c9760baad662338ec9f6988
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.19.4/kubescape-operator-1.19.4.tgz
+    version: 1.19.4
+  - apiVersion: v2
+    appVersion: 1.19.3
+    created: "2024-07-10T12:55:39.82545621Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: serviceScanConfig.enabled
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f844b013f8686277aa0c032d557a7c2a9f13b30cce5176676c8fdda76f6fc2a5
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.19.3/kubescape-operator-1.19.3.tgz
+    version: 1.19.3
+  - apiVersion: v2
+    appVersion: 1.19.2
+    created: "2024-07-08T08:43:38.493260035Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://../dependency_chart/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://../dependency_chart/namespaced-crds
+      version: 0.0.2
+    - condition: capabilities.enableServiceScanResult
+      name: kubescape-service-scan-crd
+      repository: file://../dependency_chart/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 21fdfef38070f0c4b558f0c45caaae43b8798b8fc8d10aea562c62ea2ee5d15a
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.19.2/kubescape-operator-1.19.2.tgz
+    version: 1.19.2
+  - apiVersion: v2
+    appVersion: 1.19.1
+    created: "2024-07-05T08:27:35.075815971Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.2
+    - condition: capabilities.enableServiceScanResult
+      name: kubescape-service-scan-crd
+      repository: file://./charts/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: d87a39e5c75260c37cad3fb701ed388d2706a68a17f6a3efdb9149cd20f09230
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.19.1/kubescape-operator-1.19.1.tgz
+    version: 1.19.1
+  - apiVersion: v2
+    appVersion: 1.18.18
+    created: "2024-06-25T04:55:45.58110626Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.2
+    - condition: capabilities.enableServiceScanResult
+      name: kubescape-service-scan-crd
+      repository: file://./charts/servicescanresult-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 428de7d2e3ed782f9d951be42abe4d4e1a929bec8118c8cbde7143d19c825365
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.18/kubescape-operator-1.18.18.tgz
+    version: 1.18.18
+  - apiVersion: v2
+    appVersion: 1.18.17
+    created: "2024-06-19T10:51:59.122645505Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.2
+    - condition: capabilities.enableServiceAuth
+      name: kubescape-service-crd
+      repository: file://./charts/serviceauthentication-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 20ac3cacf544a2f8a14e57e0fad5a6bc3edb061c65af4133c54e7d85bf29ba65
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.17/kubescape-operator-1.18.17.tgz
+    version: 1.18.17
+  - apiVersion: v2
+    appVersion: 1.18.16
+    created: "2024-06-05T15:58:56.752071759Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.2
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8e24795d0427bc5f4d8d36912ff2afc5b544721647de0f2a7a3342f38fd92a71
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.16/kubescape-operator-1.18.16.tgz
+    version: 1.18.16
+  - apiVersion: v2
+    appVersion: 1.18.15
+    created: "2024-06-04T07:43:49.557828564Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.2
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8d95dbc2462d493d39e67b6edfac2f83f628c4975571fca5bd61dc83b3f4a651
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.15/kubescape-operator-1.18.15.tgz
+    version: 1.18.15
+  - apiVersion: v2
+    appVersion: 1.18.14
+    created: "2024-05-28T06:35:48.427239982Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.2
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.2
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 991d781aeb98f521bf2c185c98ef7dabd494ce566f557f41185020e6664f545e
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.14/kubescape-operator-1.18.14.tgz
+    version: 1.18.14
+  - apiVersion: v2
+    appVersion: 1.18.13
+    created: "2024-05-07T10:21:55.502497321Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.1
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: cc5ac0709d8e6f4c07b46f1750a2caf6558d4b67d4a373dd2ff5a8330733f315
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.13/kubescape-operator-1.18.13.tgz
+    version: 1.18.13
+  - apiVersion: v2
+    appVersion: 1.18.12
+    created: "2024-05-01T13:15:48.656704895Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.1
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 6b25608b57bd68e481c61b8fc599c209d31ae37a5cf2d7ab50b02c77059abef7
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.12/kubescape-operator-1.18.12.tgz
+    version: 1.18.12
+  - apiVersion: v2
+    appVersion: 1.18.11
+    created: "2024-04-17T15:17:03.477258096Z"
+    dependencies:
+    - condition: alertCRD.scopeClustered
+      name: kubescape-alert-crd
+      repository: file://./charts/clustered-crds
+      version: 0.0.1
+    - condition: alertCRD.scopeNamespaced
+      name: kubescape-alert-crd-ns
+      repository: file://./charts/namespaced-crds
+      version: 0.0.1
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 7c0aba5e20962d5196a96f76d31275a6b48fa84817ad96a4c789d0ef9e04b9f3
+    home: https://kubescape.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    - email: amirm@armosec.io
+      name: Amir Malka
+      url: https://www.linkedin.com/in/amirmalka
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.11/kubescape-operator-1.18.11.tgz
+    version: 1.18.11
+  - apiVersion: v2
+    appVersion: 1.18.10
+    created: "2024-04-09T12:19:31.724812071Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 22db82634ed5b804826a3119b5a32cfac8937e49b9853e4d576194437e7b682e
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.10/kubescape-operator-1.18.10.tgz
+    version: 1.18.10
+  - apiVersion: v2
+    appVersion: 1.18.9
+    created: "2024-04-08T16:36:31.411930418Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: ec2c2f1abe9751bbe77929b98d59af6ec90e2d84b6983938625f26f7dd0df128
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.9/kubescape-operator-1.18.9.tgz
+    version: 1.18.9
+  - apiVersion: v2
+    appVersion: 1.18.8
+    created: "2024-04-02T15:16:33.796812783Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 45237b8cc0eb6bf00168cea16763cb28850d46d6803117a74b2cf47c312deab7
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.8/kubescape-operator-1.18.8.tgz
+    version: 1.18.8
+  - apiVersion: v2
+    appVersion: 1.18.7
+    created: "2024-03-27T17:53:03.898057703Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 0f921b017bb041f5a820004cc5276132a258bc841c5179e0439fb0315d99f9b7
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: matthiasb@armosec.io
+      name: Matthias Bertschy
+      url: https://www.linkedin.com/in/matthias-bertschy-b427b815/
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.7/kubescape-operator-1.18.7.tgz
+    version: 1.18.7
+  - apiVersion: v2
+    appVersion: 1.18.6
+    created: "2024-03-06T16:26:24.980391312Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8183e255e93a807a9a1173908e3017d7475dad21517a5ffce5bfeee08e2a42c8
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.6/kubescape-operator-1.18.6.tgz
+    version: 1.18.6
+  - apiVersion: v2
+    appVersion: 1.18.5
+    created: "2024-03-04T19:02:23.928097922Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 4c3c1d01163519e5b00ee835dfe2029587b7f9b58d0a3815531c55fa2a1546aa
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.5/kubescape-operator-1.18.5.tgz
+    version: 1.18.5
+  - apiVersion: v2
+    appVersion: 1.18.4
+    created: "2024-02-22T13:45:56.88997788Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 3ada0fc753c58973c786a9bd7f38b5e32e8f8a697490e3c5a875ac258f1ce1fc
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.4/kubescape-operator-1.18.4.tgz
+    version: 1.18.4
+  - apiVersion: v2
+    appVersion: 1.18.3
+    created: "2024-02-12T15:20:27.400116653Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 037236be3a413e39900c00902cc7da4fbf932259c6e77d49c5b0183116d857ea
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.3/kubescape-operator-1.18.3.tgz
+    version: 1.18.3
+  - apiVersion: v2
+    appVersion: 1.18.2
+    created: "2024-02-07T10:22:17.735600407Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: b32385c2947ea75b1eff2a10a4eb792c094525c7ab48d6dbaf6c6df2ad39dd01
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.2/kubescape-operator-1.18.2.tgz
+    version: 1.18.2
+  - apiVersion: v2
+    appVersion: 1.18.1
+    created: "2024-01-29T12:51:36.939709887Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8c4f884cb1a29e52d1f2ee047d81a34b7a823c534ff7a522d5a0ff01fb355c3f
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.1/kubescape-operator-1.18.1.tgz
+    version: 1.18.1
+  - apiVersion: v2
+    appVersion: 1.18.0
+    created: "2024-01-24T09:58:01.401804578Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 3a1efcddb5f34ca42ba92f08926514e9877d78177da700869f73964913e6c345
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.18.0/kubescape-operator-1.18.0.tgz
+    version: 1.18.0
+  - apiVersion: v2
+    appVersion: 1.17.3
+    created: "2024-01-15T20:05:43.083883791Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 6dba57ac7cd416ad0420839dc203e9929cb4b9a85de0922dd3f351e35f40d352
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.17.3/kubescape-operator-1.17.3.tgz
+    version: 1.17.3
+  - apiVersion: v2
+    appVersion: 1.17.2
+    created: "2024-01-12T08:33:07.010014401Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 105d51bc6f3c9c381f3ecca86aa9edb17021a55b0c6a242a99ea5959891cb2a5
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.17.2/kubescape-operator-1.17.2.tgz
+    version: 1.17.2
+  - apiVersion: v2
+    appVersion: 1.17.1
+    created: "2024-01-08T12:48:32.421390475Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 07b2e9b835332ef9ba469cb8458982ad12c155e696611a3ebb05fbb97853d699
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.17.1/kubescape-operator-1.17.1.tgz
+    version: 1.17.1
+  - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2024-01-01T20:43:31.250999194Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: ebff50c5c670681ab44fbfd22a01dc54531a842bc71467695ea1e16293e10fe1
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.17.0/kubescape-operator-1.17.0.tgz
+    version: 1.17.0
+  - apiVersion: v2
+    appVersion: 1.16.8
+    created: "2023-12-25T10:07:51.054059605Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 7db7ac0ac70646492a2ea0c7ac19a526e2bd5cc73a844b488699dddab812a394
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.8/kubescape-operator-1.16.8.tgz
+    version: 1.16.8
+  - apiVersion: v2
+    appVersion: 1.16.7
+    created: "2023-12-24T08:14:56.94840658Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: b94a57f5c8d984d5c956ba5dbf99e89420f6b051ee0be2f716e3795f14fc0d18
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.7/kubescape-operator-1.16.7.tgz
+    version: 1.16.7
+  - apiVersion: v2
+    appVersion: 1.16.6
+    created: "2023-12-24T06:14:12.305205166Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 336f6021ebc519974addc7989dca23e0f4b8347b2183a1b37e00519fd5a95fc7
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.6/kubescape-operator-1.16.6.tgz
+    version: 1.16.6
+  - apiVersion: v2
+    appVersion: 1.16.5
+    created: "2023-12-11T16:51:43.547654401Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: e5dd31a6bcac5cdb695c8eadca1b0bd46f0da6a7277822372701a828c58567f3
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.5/kubescape-operator-1.16.5.tgz
+    version: 1.16.5
+  - apiVersion: v2
+    appVersion: 1.16.4
+    created: "2023-11-29T11:33:11.948195309Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 6dcc1547b0497448ac0be1610b368fdc27266c97892dd3fad5ad6c06c4f9a073
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.4/kubescape-operator-1.16.4.tgz
+    version: 1.16.4
+  - apiVersion: v2
+    appVersion: 1.16.3
+    created: "2023-11-20T12:51:43.803852385Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f761db12dccf06e4cd035e130a8af68002aa067b1e2640dc3d4cb1bf4783d16b
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.3/kubescape-operator-1.16.3.tgz
+    version: 1.16.3
+  - apiVersion: v2
+    appVersion: 1.16.2
+    created: "2023-11-02T08:29:58.897100781Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f268c6772471b183dbfd2f00b68e1dd549d1d92d882ffe5b03b3693c0fff0fee
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.2/kubescape-operator-1.16.2.tgz
+    version: 1.16.2
+  - apiVersion: v2
+    appVersion: 1.16.1
+    created: "2023-10-23T08:22:49.750929848Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 509a5393bfbf331c160874157b5b866c90b01b23c59bd29fabd187dd779fc2b3
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.1/kubescape-operator-1.16.1.tgz
+    version: 1.16.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-10-12T08:27:20.474602136Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 22bb1fc75ba16b713d47646c7e140db99d743becfb5f0ca84e2cd64ad077cebb
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.16.0/kubescape-operator-1.16.0.tgz
+    version: 1.16.0
+  - apiVersion: v2
+    appVersion: 1.15.5
+    created: "2023-09-19T15:00:00.019363762Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 79f4ed5593d17d94367027732719753c33ddcf916d94132f88661229ad2e9dcc
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.15.5/kubescape-operator-1.15.5.tgz
+    version: 1.15.5
+  - apiVersion: v2
+    appVersion: 1.15.4
+    created: "2023-09-19T11:57:18.03114809Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 40ea26fd3fe94871bc38f326fab9e911ec70ec60943c82bc54ac99a1a77b0877
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.15.4/kubescape-operator-1.15.4.tgz
+    version: 1.15.4
+  - apiVersion: v2
+    appVersion: 1.15.3
+    created: "2023-09-10T16:23:36.116612044Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 5bdfeda610f8d67458284b1e2bb5d17ec7d67486326e8564d4be4eff7de8ad94
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.15.3/kubescape-operator-1.15.3.tgz
+    version: 1.15.3
+  - apiVersion: v2
+    appVersion: 1.15.2
+    created: "2023-09-10T10:37:49.362516064Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 56eba8bbef38e0bab9fa10d129fcfe7360e911170d43936770b311ef12119424
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.15.2/kubescape-operator-1.15.2.tgz
+    version: 1.15.2
+  - apiVersion: v2
+    appVersion: 1.15.1
+    created: "2023-09-07T12:03:37.960193741Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 2043c4bf02541d590050cd6e2abc4e6047f27c194267dd7c771f331dd3e265fd
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.15.1/kubescape-operator-1.15.1.tgz
+    version: 1.15.1
+  - apiVersion: v2
+    appVersion: 1.15.0
+    created: "2023-09-06T18:17:07.313270919Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8e9ae833782aeb2acd3d4aff7b0481d4f3f8ffc7f848c20cb85169ee2dfa4af3
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-operator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-operator-1.15.0/kubescape-operator-1.15.0.tgz
+    version: 1.15.0
+  kubescape-prometheus-integrator:
+  - apiVersion: v2
+    appVersion: v0.0.13
+    created: "2023-06-04T18:47:54.89968112Z"
+    description: Kubescape integration with Prometheus
+    digest: daf93c1f1888d67ac0df96b8adf927cbd81fd50806348acf3f58035bf5e23244
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.13/kubescape-prometheus-integrator-0.0.13.tgz
+    version: 0.0.13
+  - apiVersion: v2
+    appVersion: v0.0.12
+    created: "2023-05-16T14:06:25.972804492Z"
+    description: Kubescape integration with Prometheus
+    digest: e87eb0e3b2cdcf0d52694eee84b6108b000e21da12b460e0f48ab8bb8a5f29cc
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.12/kubescape-prometheus-integrator-0.0.12.tgz
+    version: 0.0.12
+  - apiVersion: v2
+    appVersion: v0.0.11
+    created: "2023-04-17T08:16:52.991521828Z"
+    description: Kubescape integration with Prometheus
+    digest: f5d33398c7aacca0dc34094c5eaed1fa1f3cb7a912840df603fb420f803bee7d
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.11/kubescape-prometheus-integrator-0.0.11.tgz
+    version: 0.0.11
+  - apiVersion: v2
+    appVersion: v0.0.10
+    created: "2023-04-17T05:42:47.775413481Z"
+    description: Kubescape integration with Prometheus
+    digest: 94dee3d9fe2fb707ac10d873902c28561db27e9084b4a38f68abcd8ad6e209a1
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.10/kubescape-prometheus-integrator-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v2
+    appVersion: v0.0.9
+    created: "2023-03-15T11:38:00.117365363Z"
+    description: Kubescape integration with Prometheus
+    digest: 266de15eb552c6f558816c52bc37797200de3bdd10574843cf60e335b5157559
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.9/kubescape-prometheus-integrator-0.0.9.tgz
+    version: 0.0.9
+  - apiVersion: v2
+    appVersion: v0.0.8
+    created: "2023-03-07T10:05:11.267046851Z"
+    description: Kubescape integration with Prometheus
+    digest: 8151cd6437e56b879b125d9fc7fdeb092fba8baedbf2e6164016649c347ec8da
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.8/kubescape-prometheus-integrator-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v2
+    appVersion: v0.0.7
+    created: "2023-02-09T15:05:14.136588985Z"
+    description: Kubescape integration with Prometheus
+    digest: 8eecee45d73302bbb637b5e96ad524db5c5e14c62da17a126ac254ea4c28dbae
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.7/kubescape-prometheus-integrator-0.0.7.tgz
+    version: 0.0.7
+  - apiVersion: v2
+    appVersion: v0.0.6
+    created: "2023-01-18T12:26:45.853598114Z"
+    description: Kubescape integration with Prometheus
+    digest: 163ea3cbe25a8789e627bf0a2c9e29e6f9e2be8b4665d771a9b98330bef963c8
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.6/kubescape-prometheus-integrator-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
+    appVersion: v0.0.5
+    created: "2023-01-08T14:21:53.979343817Z"
+    description: Kubescape integration with Prometheus
+    digest: 9eed898f98e225022f038862410307aa3e116032a54a414d53cc1a75d656f763
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.5/kubescape-prometheus-integrator-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: v0.0.4
+    created: "2022-12-22T08:59:03.772906675Z"
+    description: Kubescape integration with Prometheus
+    digest: 92f66ae3bbeab2bbeec4e92b3c6e8bad1d6fd55cae70758a16e9a026a95b56de
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.4/kubescape-prometheus-integrator-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v2
+    appVersion: v0.0.3
+    created: "2022-11-17T07:12:34.963853432Z"
+    description: Kubescape integration with Prometheus
+    digest: 2e8773e89c861bd5d550ab0f006d0d3febd4e6c589072010a95b437c5536ae60
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.3/kubescape-prometheus-integrator-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v2
+    appVersion: v0.0.2
+    created: "2022-11-06T17:38:48.588873229Z"
+    description: Kubescape integration with Prometheus
+    digest: b685d1ae86309da169e19b26f03f8b5da2eb24a0462e4d0007dfd8035952cf0a
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.2/kubescape-prometheus-integrator-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: v0.0.1
+    created: "2022-10-13T11:09:40.137054081Z"
+    description: Kubescape integration with Prometheus
+    digest: ec59ad1c1b74e1bd5c278618b570ebfe144c279885f1219157ed011829d2e8b7
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.1/kubescape-prometheus-integrator-0.0.1.tgz
+    version: 0.0.1
+  - apiVersion: v2
+    appVersion: v0.0.0
+    created: "2022-09-29T14:42:59.904718263Z"
+    description: Kubescape integration with Prometheus
+    digest: 3175f72ccf2f917e8e663e4292e6ee5af6a44af8dcd204da1719ed34ca97c4db
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    name: kubescape-prometheus-integrator
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-prometheus-integrator-0.0.0/kubescape-prometheus-integrator-0.0.0.tgz
+    version: 0.0.0
+  kubescape-relevancy:
+  - apiVersion: v2
+    appVersion: 3.0.4
+    created: "2023-06-15T15:44:43.48090081Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 59bbe4ac49dd252ae89f9a2e479e4e55f5c7bd8acbbc109cbb9268f76ab707e6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-3.0.4/kubescape-relevancy-3.0.4.tgz
+    version: 3.0.4
+  - apiVersion: v2
+    appVersion: 3.0.3
+    created: "2023-06-08T14:52:25.106946581Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: d19a0cecc2c8967e86616a040b6bc311f171f06b1314bb4042cdb1dc14491361
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-3.0.3/kubescape-relevancy-3.0.3.tgz
+    version: 3.0.3
+  - apiVersion: v2
+    appVersion: 3.0.2
+    created: "2023-06-08T13:05:47.468661256Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: c76ec242c739a1f199e1bc45845b10e4a927a0ac4e20f6fdd7de30fb3e10922c
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-3.0.2/kubescape-relevancy-3.0.2.tgz
+    version: 3.0.2
+  - apiVersion: v2
+    appVersion: 3.0.1
+    created: "2023-06-08T08:36:10.372344037Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 7bb90558a5271063a73a5af8b6866fb242a6cc5d5751e3a26921df1e70b809c3
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-3.0.1/kubescape-relevancy-3.0.1.tgz
+    version: 3.0.1
+  - apiVersion: v2
+    appVersion: 3.0.0
+    created: "2023-06-08T08:14:20.829142797Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 1479a4f216fa484811961ed0d5b6a9b1787c6586bf3c103ee7cda38698a4ef19
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-3.0.0/kubescape-relevancy-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v2
+    appVersion: 2.0.17
+    created: "2023-06-07T11:10:38.838967841Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8691edd74c9f0caeed582eabd2d331a8f9ec1392693d0e7054f357fdc04843d2
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.17/kubescape-relevancy-2.0.17.tgz
+    version: 2.0.17
+  - apiVersion: v2
+    appVersion: 2.0.16
+    created: "2023-06-04T06:10:04.407515588Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: bad2cb4a25a84dbf4a11b59c3f1c272d73c12ba034d619c45d35d725f1d5e647
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.16/kubescape-relevancy-2.0.16.tgz
+    version: 2.0.16
+  - apiVersion: v2
+    appVersion: 2.0.15
+    created: "2023-06-01T14:01:28.641834687Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 44592544f0e795c4d749d72c54db456894240a2c702e95c6ce98e9ec586f4446
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.15/kubescape-relevancy-2.0.15.tgz
+    version: 2.0.15
+  - apiVersion: v2
+    appVersion: 2.0.11
+    created: "2023-05-23T13:00:26.261630888Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: d5bdf13f9f0eae1a26fc35706190530d227ce42d2cc95e7a601a8130ba49a955
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.11/kubescape-relevancy-2.0.11.tgz
+    version: 2.0.11
+  - apiVersion: v2
+    appVersion: 2.0.10
+    created: "2023-05-19T14:55:09.054287957Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 7e89673390cb939e6101efab507469701b4248e2471883891b0b3e0bd0d25719
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.10/kubescape-relevancy-2.0.10.tgz
+    version: 2.0.10
+  - apiVersion: v2
+    appVersion: 2.0.9
+    created: "2023-05-19T13:46:15.203616265Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 49fed41ab02bf0cedc59b004766d92201f318af4af6374d690de158d26d21ac6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.9/kubescape-relevancy-2.0.9.tgz
+    version: 2.0.9
+  - apiVersion: v2
+    appVersion: 2.0.8
+    created: "2023-05-04T15:46:53.679684061Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 0d724297122f68757e40343ba887f3550b5b8878c59cfd6a8e15d73dddf14c4c
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.8/kubescape-relevancy-2.0.8.tgz
+    version: 2.0.8
+  - apiVersion: v2
+    appVersion: 2.0.7
+    created: "2023-05-04T14:18:20.578884493Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 188b80e99d9ed5f74b0d05287a760ce80099fd2c9f334f44c30738291c6e7cc6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.7/kubescape-relevancy-2.0.7.tgz
+    version: 2.0.7
+  - apiVersion: v2
+    appVersion: 2.0.6
+    created: "2023-05-04T09:49:32.547232038Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 374e627a7d0cd45f943ffe9ca67f3e141fb33c0d26eadd8c566a25caf613fce7
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.6/kubescape-relevancy-2.0.6.tgz
+    version: 2.0.6
+  - apiVersion: v2
+    appVersion: 2.0.5
+    created: "2023-05-03T09:25:05.790784071Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 70c9501f746c929a20f611f8822b934984798327fcf296d950c3fb17f8a463d9
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.5/kubescape-relevancy-2.0.5.tgz
+    version: 2.0.5
+  - apiVersion: v2
+    appVersion: 2.0.4
+    created: "2023-05-01T10:51:12.73270507Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8112fed1adbae58c2f1208fb732c230cb6d5959b53d1f6cb54116998fb0f58c6
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.4/kubescape-relevancy-2.0.4.tgz
+    version: 2.0.4
+  - apiVersion: v2
+    appVersion: 2.0.3
+    created: "2023-04-27T14:11:57.762711993Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 8440ad39f37347de5cc43bc42305f6da227e13faed4ca3600411e85b04f671e9
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.3/kubescape-relevancy-2.0.3.tgz
+    version: 2.0.3
+  - apiVersion: v2
+    appVersion: 2.0.2
+    created: "2023-04-24T13:29:59.956164868Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: f34339f3f383383ee33d3a136913af6b33e6e211ecef32b8b4afbdf909a9989a
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.2/kubescape-relevancy-2.0.2.tgz
+    version: 2.0.2
+  - apiVersion: v2
+    appVersion: 2.0.1
+    created: "2023-04-23T16:31:35.718653831Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 4e5c231f95e3c555579726f185c182187229a6c80117d314a2d8b398a2ed30ec
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.1/kubescape-relevancy-2.0.1.tgz
+    version: 2.0.1
+  - apiVersion: v2
+    appVersion: 2.0.0
+    created: "2023-04-23T07:15:49.813197895Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 1464bc1411bd7f22601b561f535d199718c9d876b437292e26df77693936ace4
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.0/kubescape-relevancy-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v2
+    appVersion: 2.0.0-beta1
+    created: "2023-04-23T06:10:13.202144794Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 581b5859bdf5f06bbc15dcc3318feeef78356aa8ec2f8e5137f0f9d72f324b71
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.0-beta1/kubescape-relevancy-2.0.0-beta1.tgz
+    version: 2.0.0-beta1
+  - apiVersion: v2
+    appVersion: 2.0.0-beta0
+    created: "2023-04-20T20:12:55.449551837Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 59271b28330743a51f7d7448c27541f3e3c70669c83e774f19ad8a47e3092980
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-2.0.0-beta0/kubescape-relevancy-2.0.0-beta0.tgz
+    version: 2.0.0-beta0
+  - apiVersion: v2
+    appVersion: 1.12.0
+    created: "2023-06-08T07:45:10.909405834Z"
+    description: Kubescape is an E2E Kubernetes cluster security platform
+    digest: 99a7cf99b031965c09321fc7059d1d16bdee9a37714a835227412d8fa0844739
+    home: https://www.armosec.io/
+    maintainers:
+    - email: ben@armosec.io
+      name: Ben Hirschberg
+      url: https://www.linkedin.com/in/benyamin-ben-hirschberg-66141890
+    - email: dw@armosec.io
+      name: David Wertenteil
+      url: https://www.linkedin.com/in/david-wertenteil-0ba277b9
+    - email: bez@armosec.io
+      name: Bezalel Brandwine
+      url: https://www.linkedin.com/in/bezalel-brandwine
+    - email: mshkalim@armosec.io
+      name: Matan Shkalim
+      url: https://www.linkedin.com/in/matan-shkalim
+    name: kubescape-relevancy
+    type: application
+    urls:
+    - https://github.com/kubescape/helm-charts/releases/download/kubescape-relevancy-1.12.0/kubescape-relevancy-1.12.0.tgz
+    version: 1.12.0
+generated: "2024-08-29T14:43:43.759802488Z"

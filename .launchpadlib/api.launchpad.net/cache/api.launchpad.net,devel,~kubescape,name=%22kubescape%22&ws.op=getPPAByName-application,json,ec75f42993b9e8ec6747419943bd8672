@@ -1,0 +1,22 @@
+status: 200
+date: Mon, 02 Sep 2024 06:49:39 GMT
+server: gunicorn
+x-powered-by: Zope (www.zope.org), Python (www.python.org)
+content-security-policy: frame-ancestors 'self';
+content-type: application/json
+strict-transport-security: max-age=15552000
+vary: Accept,Accept-Encoding
+x-content-type-options: nosniff
+x-frame-options: SAMEORIGIN
+x-launchpad-revision: 1b1ed1ad2dbfc71ee62b5c5491c975135a771bf0
+x-lazr-notifications: []
+x-xss-protection: 1; mode=block
+x-vcs-revision: 1b1ed1ad2dbfc71ee62b5c5491c975135a771bf0
+x-request-id: 0637b839-2f35-4ed3-81ce-372394e6d86a
+content-length: 1793
+-content-encoding: gzip
+content-location: https://api.launchpad.net/devel/~kubescape?name=%22kubescape%22&ws.op=getPPAByName
+-varied-accept: application/json
+-varied-accept-encoding: gzip, deflate
+
+{"self_link": "https://api.launchpad.net/devel/~kubescape/+archive/ubuntu/kubescape", "web_link": "https://launchpad.net/~kubescape/+archive/ubuntu/kubescape", "resource_type_link": "https://api.launchpad.net/devel/#archive", "owner_link": "https://api.launchpad.net/devel/~kubescape", "name": "kubescape", "displayname": "kubescape", "reference": "~kubescape/ubuntu/kubescape", "distribution_link": "https://api.launchpad.net/devel/ubuntu", "private": false, "suppress_subscription_notifications": false, "dependencies_collection_link": "https://api.launchpad.net/devel/~kubescape/+archive/ubuntu/kubescape/dependencies", "description": "Kubescape is an open-source Kubernetes security platform. It includes risk analysis, security compliance, and misconfiguration scanning. Targeted at the DevSecOps practitioner or platform engineer, it offers an easy-to-use CLI interface, flexible output formats, and automated scanning capabilities. It saves Kubernetes users and admins precious time, effort, and resources.", "signing_key_fingerprint": "69B64223AC47E4F1071E9F6A99F97A1A0DF1244A", "require_virtualized": true, "build_debug_symbols": false, "publish_debug_symbols": false, "permit_obsolete_series_uploads": false, "authorized_size": 8192, "status": "Active", "external_dependencies": null, "metadata_overrides": null, "processors_collection_link": "https://api.launchpad.net/devel/~kubescape/+archive/ubuntu/kubescape/processors", "enabled_restricted_processors_collection_link": "https://api.launchpad.net/devel/~kubescape/+archive/ubuntu/kubescape/enabled_restricted_processors", "publishing_method": "Local", "repository_format": "Debian", "publish": true, "relative_build_score": 0, "http_etag": "\"35e3435cc35bf65d711b62e387c463e5b38d7c3c-8f29487cbe184c8c1ab59d1d04d2d50d899e8839\""}

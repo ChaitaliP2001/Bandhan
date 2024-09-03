@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: locust
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: locust
+  template:
+    metadata:
+      labels:
+        app: locust
+    spec:
+      containers:
+      - name: locust
+        image: locustio/locust
+        ports:
+        - containerPort: 8089
+        volumeMounts:
+        - name: locust-scripts
+          mountPath: /mnt/locust
+      volumes:
+      - name: locust-scripts
+        configMap:
+          name: locust-scripts
+

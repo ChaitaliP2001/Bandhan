@@ -1,0 +1,48 @@
+gitlabUrl: https://gitlab.esds-test.com/
+clone_url: https://gitlab.esds-test.com/
+
+runnerRegistrationToken: "glrt-xRtr-d_YgayG5kkVYiVp"
+  #runnerRegistrationToken: "GR1348941taks7EKPH-z2Lfaj7Gpf"
+  #runnerRegistrationToken: "GR1348941t-cH5wX699CLbf9ER7uG"
+
+concurrent: 10
+
+checkInterval: 30
+
+rbac:
+  create: true
+  rules:
+    - apiGroups: [""]
+      resources: ["pods"]
+      verbs: ["list", "get", "watch", "create", "delete"]
+    - apiGroups: [""]
+      resources: ["pods/exec"]
+      verbs: ["create"]
+    - apiGroups: [""]
+      resources: ["pods/log"]
+      verbs: ["get"]
+    - apiGroups: [""]
+      resources: ["pods/attach"]
+      verbs: ["list", "get", "create", "delete", "update"]
+    - apiGroups: [""]
+      resources: ["secrets"]
+      verbs: ["list", "get", "create", "delete", "update"]      
+    - apiGroups: [""]
+      resources: ["configmaps"]
+      verbs: ["list", "get", "create", "delete", "update"]     
+
+runners:
+  privileged: true
+  
+  config: |
+    [[runners]]
+      name = "kubernetes"
+      [runners.kubernetes]
+        namespace = "gitlab"
+        image = "busybox"
+        privileged = true
+        [[runners.kubernetes.volumes.host_path]]
+          name = "docker"
+          mount_path = "/var/run/docker.sock"
+          host_path = "/var/run/docker.sock"
+

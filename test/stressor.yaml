@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: stressor
+spec:
+  containers:
+  - name: stressor
+    image: progrium/stress
+    command: ["stress"]
+    args: ["--cpu", "4", "--timeout", "60s"]
+

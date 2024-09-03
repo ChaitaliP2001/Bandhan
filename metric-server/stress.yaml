@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: stress-test
+spec:
+  containers:
+  - name: stress
+    image: alpine
+    command: [ "sh", "-c", "apk add --no-cache stress && sleep 60 && stress --cpu 4 --timeout 60s" ]
+ 

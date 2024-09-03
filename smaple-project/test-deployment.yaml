@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: python-flask-demo
+  labels:
+    app: python-flask-demo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: python-flask-demo
+  template:
+    metadata:
+      labels:
+        app: python-flask-demo
+    spec:
+      containers:
+      - name: python-flask-demo
+        image: harbor.esds-test.com/test-cicd/my-docker-image:latest
+      imagePullSecrets:
+        - name: my-registry-secret
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: python-flask-demo
+spec:
+  selector:
+    app: python-flask-demo
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5000
+  type: NodePort
+
